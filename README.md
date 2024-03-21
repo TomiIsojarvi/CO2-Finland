@@ -30,3 +30,12 @@ At the project directory run the following command:
 ```
 flutter build apk
 ```
+The builded and created APK file can be found at:
+```
+co2_finland/build/app/outputs/apk/release/app-release.apk
+```
+You can install the APK file to a device either manually or by using USB cable. \
+To install application using USB cable, use the following command at the project directory:
+```
+flutter install
+```

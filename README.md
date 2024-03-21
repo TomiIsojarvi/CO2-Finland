@@ -39,7 +39,7 @@ Zooming can be performed by moving two fingers over the chart. When zoomed, pann
 #### Trackball
 <img src="Doc/trackball.png" alt="Tooltip" style="width:200px;"/>
 Trackball feature displays the tooltip for the data points that are closer to the point where you touch on the chart area. It is used to get more detailed information about the data. 
-Trackball will be activated once you long-press anywhere on the chart area.
+Trackball will be activated once you long-press anywhere on the chart area. While long-pressing you can move the trackball by moving your finger horizontally over the chart.
 
 ## How to build
 ### Install Flutter

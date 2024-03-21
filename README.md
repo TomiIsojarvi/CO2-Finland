@@ -6,7 +6,7 @@ This project is made by Tomi Isojärvi as a project assignment for Oulu Universi
 
 ## How to build
 ### Install Flutter
-### Intall the dependencies
+### Add the package dependencies to the app
 ### Add API key to the project
 ### Build the project
 #### Android

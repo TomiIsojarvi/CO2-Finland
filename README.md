@@ -26,10 +26,10 @@ Advanced Search is used for more detailed search.
 Select the start date and end date. Select whether you want the data to be shown starting from the start date or from the end date.
 
 ##### Average Filter  
-Can be used to average and filter data by an hour, day, or month. Advanced Filter is turned off by default (`None`).
+Used for averaging and filtering data by an hour, a day, or a month. Advanced Filter is turned off by default (`None`).
 
 ##### Time interval
-The inital time interval data to be shown on screen. `All` automatically shows all data at the same time.
+Used for specifying the inital time interval data to be seen on screen. `All` is used to show all data as a whole on screen.
 
 ### Line Chart
 <img src="Doc/line_chart.png" alt="Tooltip" style="width:200px;"/>

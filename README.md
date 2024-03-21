@@ -32,6 +32,7 @@ Can be used to average and filter data by an hour, day, or month. `None` means t
 The inital time interval data to be shown on screen. `All` automatically shows all data at the same time.
 
 ### Line Chart
+<img src="Doc/line_chart.png" alt="Tooltip" style="width:200px;"/>
 
 
 ## How to build

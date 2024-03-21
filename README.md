@@ -1,5 +1,5 @@
 # CO2 Finland
-<p float="left">
+<p align="middle">
 <img src="Doc/1.png" alt="Search screen" style="width:200px;"/>
 <img src="Doc/2.png" alt="Graph" style="width:200px;"/>
 <img src="Doc/3.png" alt="Tooltip" style="width:200px;"/>

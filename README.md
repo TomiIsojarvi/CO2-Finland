@@ -34,6 +34,8 @@ Used for specifying the inital time interval data to be seen on screen. `All` is
 ### Line Chart
 <img src="Doc/line_chart.png" alt="Tooltip" style="width:200px;"/>
 Emissions of electricity production and consumption are drawn with different colors on the chart.  
+
+#### Zooming and panning
 Zooming can be performed by moving two fingers over the chart. When zoomed, panning can be performed by moving your finger horizontally over the chart.
 
 #### Trackball

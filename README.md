@@ -17,6 +17,7 @@ You can search data using either Quick Search or Advanced Search:
 #### Quick Search
 <img src="Doc/quick_search.png" alt="Tooltip" style="width:200px;"/>
 Quick Search is a simple search to show latest data from one hour up to three months ago.
+
 #### Advanced Search
 
 

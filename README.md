@@ -26,7 +26,7 @@ Advanced Search is used for more detailed search.
 Select the start date and end date. Select whether you want the data to be shown starting from the start date or from the end date.
 
 ##### Average Filter  
-Used for averaging and filtering data by an hour, a day, or a month. Advanced Filter is turned off by default (`None`).
+Used for averaging and filtering data by an hour, a day, or a month. Advanced Filter can be turned off by choosing `None`.
 
 ##### Time interval
 Used for specifying the inital time interval data to be seen on screen. `All` is used to show all data as a whole on screen.

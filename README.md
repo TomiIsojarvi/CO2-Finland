@@ -5,4 +5,8 @@ Line charts are drawn using Syncfusion Flutter Charts. \
 This project is made by Tomi Isojärvi as a project assignment for Oulu University of Applied Sciences (OAMK).
 
 ## How to build
-### Android
+### Install Flutter
+### Intall the dependencies
+### Add API key to the project
+### Build the project
+#### Android

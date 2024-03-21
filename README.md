@@ -60,7 +60,7 @@ flutter pub get
 ### Add API key to the project
 Visit https://data.fingrid.fi/en to acquire your personal API key. \
 \
-Create a `.env` file at the project directory and at the following:
+Create a `.env` file at the project directory and add the following:
 ```
 API_KEY=<YOUR API KEY>
 ```

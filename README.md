@@ -42,8 +42,9 @@ Trackball feature displays the tooltip for the data points that are closer to th
 Trackball will be activated once you long-press anywhere on the chart area. While long-pressing you can move the trackball by moving your finger horizontally over the chart.
 
 #### Average Filter
-
-
+<img src="Doc/average_filter.png" alt="Tooltip" style="width:200px;"/>
+Used for averaging and filtering data by an hour, a day, or a month. Advanced Filter can be turned off by choosing `None`.  
+Average Filter is located at the top-right corner of the Line Chart view.
 ## How to build
 ### Install Flutter
 Visit https://docs.flutter.dev/get-started/install and install Flutter framework for your platform.

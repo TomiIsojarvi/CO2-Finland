@@ -41,7 +41,8 @@ class _HomePageState extends State<HomePage> {
   final DateTime _firstDate = DateTime(2019, 6, 24);
 
   // User's selected start and end dates.
-  DateTime _startDate = DateTime.now();
+  DateTime _startDate = DateTime(DateTime.now().year, DateTime.now().month, 
+    DateTime.now().day, 0, 0 );
   DateTime _endDate = DateTime.now();
 
   // Where from?

@@ -8,12 +8,14 @@ This project is made by Tomi Isojärvi as a project assignment for Oulu Universi
 ### Install Flutter
 Visit https://docs.flutter.dev/get-started/install and install Flutter framework for your platform.
 ### Add the package dependencies to the app
-Change to project directory and install dependency packages to the project: \
+Open the project directory and install package dependencies to the project: \
 `cd co2_finland` \
 `flutter pub get`
 ### Add API key to the project
 Visit https://data.fingrid.fi/en to acquire your personal API key.
 Create `.env` file at the project directory and at the following: \
 `API_KEY=<YOUR API KEY>`
+At the project directory run the following command: \
+`dart run build_runner build -d`
 ### Build the project
 #### Android

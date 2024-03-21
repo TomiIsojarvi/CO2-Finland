@@ -1,5 +1,7 @@
 # CO2 Finland
 <img src="Doc/1.png" alt="Search screen" style="width:200px;"/>
+<img src="Doc/2.png" alt="Search screen" style="width:200px;"/>
+<img src="Doc/3.png" alt="Search screen" style="width:200px;"/>
 CO2 Finland is a mobile application that shows CO2 emissions of electricity production and consumption from selected timeline in Finland. \
 CO2 Finland is programmed using Dart programming language and Flutter framework. \
 Fingrid Open Data service is used for data points. (https://data.fingrid.fi/en). \

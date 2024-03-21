@@ -9,7 +9,7 @@ This project is made by Tomi Isojärvi as a project assignment for Oulu Universi
 Go to https://docs.flutter.dev/get-started/install and install Flutter framework for your platform.
 ### Add the package dependencies to the app
 Change to project directory and install dependency packages to the project: \
-`cd co2_finland`
+`cd co2_finland` \
 `.\flutter pub get`
 ### Add API key to the project
 ### Build the project

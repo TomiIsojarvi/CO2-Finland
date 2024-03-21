@@ -31,6 +31,8 @@ Can be used to average and filter data by an hour, day, or month. `None` means t
 ##### Time interval
 The inital time interval data to be shown on screen. `All` automatically shows all data at the same time.
 
+### Line Chart
+
 
 ## How to build
 ### Install Flutter

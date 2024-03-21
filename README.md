@@ -51,7 +51,7 @@ Average Filter is located at the top-right corner of the Line Chart view.
 ## How to build
 ### Install Flutter
 Visit https://docs.flutter.dev/get-started/install and install Flutter framework for your platform.
-### Add the package dependencies to the app
+### Add the package dependencies to the project
 Open the project directory and install package dependencies to the project:
 ```
 cd co2_finland

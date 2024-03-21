@@ -26,9 +26,10 @@ Advanced Search is used for more detailed search.
 Select the start date and end date. Select whether you want the data to be shown from the start date or from the end date.
 
 ##### Average Filter  
-plaa plaa plaa
+Can be used to average and filter data by an hour, day, or month. `None` means that no Average Filter been used.
 
-##### Time interval  
+##### Time interval
+The inital time interval data to be shown on screen. `All` automatically shows all data at the same time.
 
 
 ## How to build

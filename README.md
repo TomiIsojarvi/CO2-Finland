@@ -26,3 +26,7 @@ dart run build_runner build -d
 ```
 ### Build the project
 #### Android
+At the project directory run the following command:
+```
+flutter build apk
+```

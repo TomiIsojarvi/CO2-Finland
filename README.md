@@ -20,7 +20,7 @@ Quick Search is a simple search to show the latest data from one hour up to thre
 
 #### Advanced Search
 <img src="Doc/advanced_search.png" alt="Tooltip" style="width:200px;"/>
-Advanced Search is used for more customizable search.
+Advanced Search is used for more detailed search.
 
 ##### Start date and End date
 Select the start date and end date. Select whether you want the data to be shown from the start date or from the end date.

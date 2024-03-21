@@ -30,7 +30,7 @@ At the project directory run the following command:
 ```
 flutter build apk
 ```
-The builded and created APK file can be found at:
+The created APK file can be found at:
 ```
 co2_finland/build/app/outputs/apk/release/app-release.apk
 ```
